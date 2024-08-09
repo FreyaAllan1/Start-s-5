@@ -1,5 +1,6 @@
 from plugins import web_server
 from aiohttp import web
+from pyrogram import Client
 
 TIMEZONE = "Asia/Kolkata"
 
